@@ -1,2 +1,3 @@
 # static
-my static file
+一些静态文件，图片
+
